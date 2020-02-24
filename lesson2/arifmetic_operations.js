@@ -6,8 +6,8 @@
 Обязательно использовать оператор return.
  */
 
-a = 6;
-b = 3;
+let a = 6;
+let b = 3;
 
 function sum(x, y) {
     return a + b;
