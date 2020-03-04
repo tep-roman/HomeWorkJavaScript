@@ -1,0 +1,21 @@
+body {
+    display: flex;
+}
+
+.product {
+    width: 150px;
+    padding-right: 15px;
+}
+
+.productName {
+    margin-bottom: 5px;
+}
+
+img {
+    display: block;
+}
+
+button {
+    margin-top: 15px;
+    display: block;
+}

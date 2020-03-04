@@ -1,0 +1,41 @@
+#app {
+    width: 240px;
+    height: 240px;
+    display: flex;
+    flex-wrap: wrap;
+    outline: 1px solid black;
+    margin-left: 27px;
+    margin-top: -237px;
+}
+
+.letters {
+    width: 240px;
+    display: flex;
+    font-size: 26px;
+    letter-spacing: 3px;
+    margin-left: 35px;
+}
+
+.number {
+    width: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 26px;
+    letter-spacing: 1px;
+    margin-left: 9px;
+    justify-content: center;
+    padding-top: 6px;
+}
+
+.black {
+    background-color: saddlebrown;
+    width: 30px;
+    height: 30px;
+}
+
+.white {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+}
+
